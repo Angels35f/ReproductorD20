@@ -117,7 +117,7 @@ const Home = () => {
           <h2>El top 10</h2>
           <Carousel
             songs={sampleSongs}
-            onSelectSong={(s: Song, index: number) => {
+            onSelectSong={(_s: Song, index: number) => {
               if (!controlsLocked) setSongByIndex(index)
             }}
           />

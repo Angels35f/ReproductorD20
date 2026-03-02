@@ -1,0 +1,43 @@
+.song-card {
+  width: 140px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: sans-serif;
+  color: #fff;
+  flex-shrink: 0;
+  cursor: pointer;
+  transition: transform 0.2s ease;
+}
+
+.song-card:hover {
+  transform: translateY(-4px);
+}
+
+.song-card-image {
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 6px;
+  background: #333;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+}
+
+.song-card-info {
+  margin-top: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+.song-card-title {
+  font-size: 0.85rem;
+  font-weight: bold;
+  line-height: 1.2;
+  word-wrap: break-word;
+}
+
+.song-card-author {
+  font-size: 0.75rem;
+  color: #aaa;
+  margin-top: 2px;
+}

@@ -1,0 +1,81 @@
+.main-layout {
+  display: flex;
+    min-height: 98vh;
+    width: 98vw;
+    background: #1b081e;
+    margin: 1vh auto;
+    border-radius: 24px;
+    position: relative;
+    height: 98vh;
+    box-sizing: border-box;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: flex-start;
+}
+
+.home-content {
+    min-width: 0;
+    height: 80%;
+    width: 77%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 32px 60px;
+    background-color: #1b081e;
+    margin: 2vh 2vw 0 0.95vw;
+    position: relative;
+    border: 3px solid #a47639;
+    outline: 3px solid #a47639;
+    outline-offset: 6px;
+    border-radius: 12px;
+}
+.home-content .corner {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  border: 3px solid #a47639;
+  border-radius: 0 0 0 24px;
+}
+
+.home-content .corner.tl {
+  top: 0;
+  left: 0;
+  border-left: none;
+  border-top: none;
+  border-radius: 0 0 24px 0;
+}
+
+.home-content .corner.tr {
+  top: 0;
+  right: 0;
+  border-right: none;
+  border-top: none;
+  border-radius: 0 0 0 24px;
+}
+
+.home-content .corner.bl {
+  bottom: 0;
+  left: 0;
+  border-left: none;
+  border-bottom: none;
+  border-radius: 0 24px 0 0;
+}
+
+.home-content .corner.br {
+  bottom: 0;
+  right: 0;
+  border-right: none;
+  border-bottom: none;
+  border-radius: 24px 0 0 0;
+}
+
+.songs-carousel {
+  margin-top: 40px;
+  width: 100%;
+}
+
+.songs-carousel h2 {
+  color: #fff;
+  margin-bottom: 12px;
+}

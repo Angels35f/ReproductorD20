@@ -28,7 +28,8 @@ jobs:
         uses: actions/configure-pages@v4
 
       - name: Upload artifact for deployment
-        uses: actions/upload-pages-artifact@v1
+        # use latest version which no longer depends on deprecated upload-artifact
+        uses: actions/upload-pages-artifact@v2
         with:
           path: dist
 

@@ -48,17 +48,19 @@ const Home = () => {
       return false
     })
 
+   const basePath = import.meta.env.BASE_URL 
+
     if (match) {
       return {
-        image: `/assets/${f}`,
+        image: `${basePath}assets/${f}`, 
         title: match.title || titleDefault,
         author: match.artist || authorDefault,
-        url: `/assets/audio/${match.file}`,
+        url: `${basePath}assets/audio/${match.file}`, 
       }
     }
 
     return {
-      image: `/assets/${f}`,
+      image: `${basePath}assets/${f}`, 
       title: titleDefault,
       author: authorDefault,
     }
@@ -86,8 +88,8 @@ const Home = () => {
     setCurrentSong({
       title: song.title,
       author: song.artist,
-      image: song.image,
-      url: `/assets/audio/${song.file}`,
+      image: `${import.meta.env.BASE_URL}${song.image}`, 
+      url: `${import.meta.env.BASE_URL}assets/audio/${song.file}`, 
     })
     setCurrentIndex(null)
     if (opts?.lockUntilEnd) setControlsLocked(true)

@@ -142,7 +142,7 @@ const Sidebar: React.FC<SidebarProps> = ({ onSongSelected, lock = false, onReady
       <div className='corner br'></div>
       <div className='logo-container'>
         <a href='/'>
-          <img src='/assets/logo.png' alt='logo' />
+          <img src={`${import.meta.env.BASE_URL}assets/logo.png`} alt='logo' />
         </a>
         <div className='text-header'>
           <h1>Plan C</h1>

@@ -4,31 +4,31 @@
       "file": "excellent/At The Risk Of Feeling Dumb - Twenty One Pilots.mp3",
       "title": "At the Risk of Feeling Dumb",
       "artist": "Twenty-one Pilots",
-      "image": "/assets/At the Risk of Feeling Dumb - Twenty-one Pilots.png"
+      "image": "assets/At the Risk of Feeling Dumb - Twenty-one Pilots.png"
     },
     {
       "file": "excellent/Gold Guns Girls - Metric.mp3",
       "title": "Gold Gun Girls",
       "artist": "Metric",
-      "image": "/assets/Gold Gun Girls - Metric.png"
+      "image": "assets/Gold Gun Girls - Metric.png"
     },
     {
       "file": "excellent/IGLESIA - MAVA RÖ.mp3",
       "title": "IGLESIA",
       "artist": "MAVA RÖ",
-      "image": "/assets/IGLESIA - MAVA RÖ.png"
+      "image": "assets/IGLESIA - MAVA RÖ.png"
     },
     {
       "file": "excellent/Reset Me - Nothing But Thieves.mp3",
       "title": "Reset Me",
       "artist": "Nothing but Thieves",
-      "image": "/assets/Reset Me - Nothing but Thieves.png"
+      "image": "assets/Reset Me - Nothing but Thieves.png"
     },
     {
       "file": "excellent/¿Qué Nos Pasó_ - LosPetitFellas.mp3",
       "title": "Qué nos pasó?",
       "artist": "LosPetitFellas",
-      "image": "/assets/Que nos paso - LosPetitFellas.png"
+      "image": "assets/Que nos paso - LosPetitFellas.png"
     }
   ],
   "good": [
@@ -36,62 +36,62 @@
       "file": "good/Autre part - Bigflo & Oli.mp3",
       "title": "Autre Part",
       "artist": "Bigflo & Oli",
-      "image": "/assets/Autre Part - Bigflo & Oli.png"
+      "image": "assets/Autre Part - Bigflo & Oli.png"
     },
     {
       "file": "good/Battlefield - SVRCINA.mp3",
       "title": "Battlefield",
       "artist": "SVRCINA",
-      "image": "/assets/Battlefield - SVRCINA.png"
+      "image": "assets/Battlefield - SVRCINA.png"
     },
     {
       "file": "good/HONEY (ARE U COMING_) - Måneskin.mp3",
       "title": "HONEY (ARE YOU COMING)",
       "artist": "Måneskin",
-      "image": "/assets/HONEY (ARE YOU COMING) - Maneskin.png"
+      "image": "assets/HONEY (ARE YOU COMING) - Maneskin.png"
     },
     {
       "file": "good/Naive - Kalandra.mp3",
       "title": "Naive",
       "artist": "Kalandra",
-      "image": "/assets/Naive - Kalandra.png"
+      "image": "assets/Naive - Kalandra.png"
     },
     {
       "file": "good/Redecorate - Twenty One Pilots.mp3",
       "title": "Redecorate",
       "artist": "Twenty-one Pilots",
-      "image": "/assets/Redecorate - Twenty-one Pilots.png"
+      "image": "assets/Redecorate - Twenty-one Pilots.png"
     }
   ],
   "normal": [
     {
-      "file": "normal/Absa G. - Efeseta ft. Ed Maverick (Video Oficial). ( 128kbps ).mp3",
-      "title": "Efeseta (ft. Ed Maverick)",
-      "artist": "Absa G.",
+      "file": "normal/A un minuto de ti - Duncan duh.mp3",
+      "title": "A un minuto de ti",
+      "artist": "Duncan duh",
       "image": ""
     },
     {
-      "file": "normal/AMIGO DE ROBERTO CARLOS _PARA MI HERMANO BARCO_ ( 128kbps ).mp3",
-      "title": "AMIGO DE ROBERTO CARLOS (Para mi hermano Barco)",
-      "artist": "normal",
+      "file": "normal/Afuera - Caifanes.mp3",
+      "title": "Afuera",
+      "artist": "Caifanes",
       "image": ""
     },
     {
-      "file": "normal/Aprecia Lo Que Tienes ( 128kbps ).mp3",
-      "title": "Aprecia Lo Que Tienes",
-      "artist": "normal",
+      "file": "normal/Ahohana soundtradk T-T.mp3",
+      "title": "Anohana soundtradk T-T",
+      "artist": "Llorala",
       "image": ""
     },
     {
-      "file": "normal/Arctic Monkeys - R U Mine_ ( 128 kbps ).mp3",
-      "title": "R U Mine",
+      "file": "normal/Four out of five - Arctic Monkeys.mp3",
+      "title": "Four out of five",
       "artist": "Arctic Monkeys",
       "image": ""
     },
     {
-      "file": "normal/Aúllan los lobos - Nanpa Básico (Video Oficial) ( 128kbps ).mp3",
-      "title": "Aúllan los lobos",
-      "artist": "Nanpa Básico",
+      "file": "normal/Dormir sin coger - Arroba nat.mp3",
+      "title": "Dormir sin coger",
+      "artist": "Arroba nat",
       "image": ""
     }
   ],
@@ -115,7 +115,7 @@
       "image": ""
     },
     {
-      "file": "bad/SnapSave.io - _Snore_ Mimimimimimimi Sound Effect (Cartoon Sleeping Sound Effect) (128 kbps).mp3",
+      "file": "bad/Mimimimimimimi.mp3",
       "title": "Snore Mimimimimimimi Sound Effect (Cartoon Sleeping Sound Effect)",
       "artist": "bad",
       "image": ""
@@ -129,32 +129,32 @@
   ],
   "terrible": [
     {
-      "file": "terrible/SnapSave.io - Anime Girl Yamete kudasai sound effect (128 kbps).mp3",
+      "file": "terrible/Yamete kudasai.mp3",
       "title": "Anime Girl Yamete kudasai sound effect",
       "artist": "terrible",
       "image": ""
     },
     {
-      "file": "terrible/SnapSave.io - Gracias por escuchar spotify Lyrics Astoy (128 kbps).mp3",
-      "title": "Gracias por escuchar spotify (Lyrics Astoy)",
+      "file": "terrible/Gracias por escuchar spotify.mp3",
+      "title": "Gracias por escuchar spotify",
       "artist": "terrible",
       "image": ""
     },
     {
-      "file": "terrible/SnapSave.io - Palo de metal callendose sonido (128 kbps).mp3",
+      "file": "terrible/Palo de metal callendose.mp3",
       "title": "Palo de metal cayéndose sonido",
       "artist": "terrible",
       "image": ""
     },
     {
-      "file": "terrible/SnapSave.io - Rana saltando (risa) meme _ Sound Effect (128 kbps).mp3",
-      "title": "Rana saltando (risa) meme - Sound Effect",
+      "file": "terrible/Rana saltando.mp3",
+      "title": "Rana saltando ",
       "artist": "terrible",
       "image": ""
     },
     {
-      "file": "terrible/SnapSave.io - tiktok aughhh sound effect (abnormally goofy ahh) (128 kbps).mp3",
-      "title": "tiktok aughhh sound effect (abnormally goofy ahh)",
+      "file": "terrible/aughhh sound effect abnormally goofy ahh.mp3",
+      "title": "tiktok aughhh sound effect ",
       "artist": "terrible",
       "image": ""
     }
